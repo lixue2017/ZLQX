@@ -40,7 +40,7 @@ const TABLE_COLS_2 = {
 const TABLE_COLS_3 = {
   prop: "table_xx_3",
   label: "使用状态",
-  minWidth: 160,
+  minWidth: 120,
   customRow: true
 };
 const TABLE_COLS_4 = {
