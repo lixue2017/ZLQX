@@ -2,10 +2,10 @@
 
 ```bash
 # 克隆项目
-https://codeup.aliyun.com/
+https://github.com/
 
 # 进入项目目录
-cd ruoyi-ui
+cd ZLQX
 
 # 安装依赖
 npm install
@@ -29,13 +29,5 @@ npm run build:stage
 npm run build:prod
 ```
 
-测试jenkins地址: http://47.107.237.68:9011/login?from=%2Fuser%2Fbsadmin%2F
-账号密码: jenkinstest   bstest  
-
-
 beforeRouteLeave - 离开当前路由时会先触发该函数
 beforeRouteEnter - 进入路由前先触发该函数
-
-
-
-FBA统一修改为整箱出库
