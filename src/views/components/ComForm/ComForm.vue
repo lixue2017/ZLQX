@@ -1769,6 +1769,17 @@ export default {
     color: #0052D9;
     text-decoration: underline;
   }
+  .el-date-editor--date {
+    &.el-input--prefix {
+      .el-input__inner {
+        padding-left: 8px
+      }
+      .el-input__prefix {
+        left: auto;
+        right: 5px
+      }
+    }      
+  }
 }
 .el-tooltip__popper.is-light.info-tip {
   padding: 15px 20px;

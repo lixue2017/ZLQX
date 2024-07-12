@@ -12254,7 +12254,7 @@
   font-size: 16px;
   line-height: 1;
   font-weight: 500;
-  color: #515151;
+  color: rgba(0, 0, 0, 0.9);
   word-wrap: break-word;
 }
 
